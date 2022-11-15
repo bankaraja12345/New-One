@@ -1,0 +1,30 @@
+.target-notes{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    border: 1px solid lightpink;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.notes-heading{
+    background-color: whitesmoke;
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid lightpink;
+    border-radius: 10px;
+}
+
+.image-notes{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
